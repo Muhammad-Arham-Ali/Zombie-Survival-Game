@@ -36,7 +36,8 @@ ________________________________________
 📂 File Structure
 
 📦 ZombieSurvivalGame  
- ┣ 📄 main.cpp  
+ ┣ 📄 ZombieSUrvival.cpp
+ ┣ 📄 ZombieSurvival.exe
  ┣ 📄 level1.txt  
  ┣ 📄 level2.txt  
  ┣ 📄 level3.txt  
